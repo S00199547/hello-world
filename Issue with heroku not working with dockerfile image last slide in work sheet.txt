@@ -1,0 +1,3 @@
+The issue i have with heroku not building up the image with the docker.
+ i tried a lot but its still showing the error.
+ i attached the screenshot in the folder what is the error overall its working fine with heroku 
