@@ -1,5 +1,5 @@
 
-FROM node AS builder
+FROM node:17.4.0 AS builder
 
 WORKDIR /hello-world
 
